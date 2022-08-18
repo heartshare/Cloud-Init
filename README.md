@@ -14,4 +14,4 @@ Requirements:
 Execute:
 
 Download and run script. "Sh" and "Curl".
-sh -c "$(curl -fsSL https://github.com/Xiatsus/Proxmox/blob/main/ubuntu-cloud-init.sh)"
+sh -c "$(curl -fsSL https://github.com/782e616c6d/Cloud-Init/blob/master/ubuntu-cloud-init.sh)"
