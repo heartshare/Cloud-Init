@@ -37,7 +37,7 @@ Code segmented into stages, each with its description and functions, to make the
 </div>
 
 Download and run script. "Sh" and "Curl".
-sh -c "$(curl -fsSL https://github.com/782e616c6d/Cloud-Init/blob/master/ubuntu-cloud-init.sh)" 
+sh -c "$(curl -fsSL https://github.com/782e616c6d/Cloud-Init/blob/master/Ubuntu-CI.sh)" 
 
 <div>
    <img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2018/png/iconmonstr-medium-4.png&r=0&g=0&b=0" title="Medium"  alt="Medium" width="40" height="40"/>&nbsp;
